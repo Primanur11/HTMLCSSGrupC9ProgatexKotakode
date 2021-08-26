@@ -264,22 +264,7 @@ li {
   height: 80px;
   line-height: 80px;
 }
-.ani {
-  background-color: #ffc562;
-}
-.mesta {
-  background-color: #a0c3f7;
-}
-.prima {
-  background-color: #ff8db3;
-}
-.fadlan {
-  background-color: #88e7ce;
-}
-.firman {
-  background-color: #88e7ce;
-}
-
+ 
 .flex-list {
   display: flex;
 }
