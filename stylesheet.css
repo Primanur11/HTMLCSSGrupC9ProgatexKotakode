@@ -23,10 +23,11 @@ a {
 
 .top-wrapper {
     padding: 180px 0 100px 0;
-    background-image: url(https://github.com/Primanur11/HTMLCSSGrupC9ProgatexKotakode/blob/main/stylesheet.css);
+    background-image: url(img/header.jpg);
     background-size: cover;
     color: black;
     text-align: center;
+}
 
 .top-wrapper h1 {
   opacity: 1;
